@@ -1,0 +1,82 @@
+plumber
+electrician
+cleaner
+gardener
+painter
+carpenter
+mechanic
+welder
+chef
+mason
+
+I need a plumber to fix a leaking pipe.
+Can someone help me install a new air conditioner?
+My washing machine is broken, and I need a repair.
+I want an electrician to install new lights in my living room.
+Looking for a cleaner to help with my home cleaning this weekend.
+I need a handyman to assemble some furniture.
+My laptop is slow, and I need a technician to fix it.
+Can someone help me with cleaning the carpet in my office?
+I need a pest control service to get rid of ants in my kitchen.
+Looking for a gardener to help with my backyard landscaping.
+I want a carpenter to build a new bookshelf.
+Looking for an IT technician to set up my home network.
+I need a mechanic to fix the brakes on my car.
+My shower drain is clogged. I need a plumber to clear it.
+Can someone install a new ceiling fan in my bedroom?
+I'm looking for a house painter to repaint my living room.
+I need a locksmith to change the locks on my doors.
+Looking for a moving company to help me relocate.
+I need a roofing service to repair a leak in my roof.
+Can someone help with my HVAC system maintenance?
+
+21.	I need help with installing a new water heater in my home.
+Service Type: Plumber
+	22.	Looking for a cleaner to deep clean my carpets and upholstery.
+Service Type: Cleaner
+	23.	Can someone help me replace a broken window?
+Service Type: Handyman
+	24.	I need an electrician to fix my kitchen lights that stopped working.
+Service Type: Electrician
+	25.	My refrigerator is making a weird noise, and I need a repair technician.
+Service Type: Repairing
+	26.	Looking for a pest control service to remove termites from my house.
+Service Type: Pest Control
+	27.	I want a landscaper to help with planting flowers in my front yard.
+Service Type: Gardener
+	28.	Can someone help me move my furniture into my new apartment?
+Service Type: Mover
+	29.	I need a handyman to install shelves in my bedroom.
+Service Type: Handyman
+	30.	Looking for an IT support technician to set up my office computers and network.
+Service Type: IT Support
+	31.	I want to repaint my front door and need a painter.
+Service Type: Painter
+	32.	My car engine is overheating, and I need a mechanic to inspect it.
+Service Type: Mechanic
+	33.	Looking for a plumber to fix a burst pipe under my sink.
+Service Type: Plumber
+	34.	I need an electrician to wire new outlets in my living room.
+Service Type: Electrician
+	35.	Can someone help me install a new ceiling light fixture?
+Service Type: Electrician
+	36.	Looking for a roofing company to replace my old roof.
+Service Type: Roofing
+	37.	I need a locksmith to rekey my front door after losing my keys.
+Service Type: Locksmith
+	38.	Can someone clean my garage and organize the clutter?
+Service Type: Cleaner
+	39.	Looking for an HVAC technician to check the air quality in my home.
+Service Type: HVAC
+	40.	I need a carpenter to fix the broken cabinet doors in my kitchen.
+Service Type: Carpenter
+	41.	Can someone install new tiles in my bathroom?
+Service Type: Handyman
+	42.	Looking for a dog walker to take my dog for a walk every day.
+Service Type: Dog Walker
+	43.	I need a personal chef to prepare daily meals for me.
+Service Type: Personal Chef
+	44.	Looking for a tutor to help me with my math homework.
+Service Type: Tutor
+	45.	I need a mover to help with unloading my boxes from the truck.
+Service Type: Mover

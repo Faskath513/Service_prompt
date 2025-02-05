@@ -1,0 +1,117 @@
+2025-01-30 12:45:23,456 - INFO - User input received: I need a plumber to fix a leaking pipe.
+2025-01-30 12:45:23,457 - INFO - Detected service: plumber
+2025-01-30 12:45:23,458 - INFO - Generated output: Service Type: Plumber, Description: A plumber is skilled in repairing and installing piping systems, fixing leaks, and ensuring the proper functioning of water systems in homes or businesses.
+2025-01-30 12:47:12,123 - ERROR - User input is missing.
+2025-01-30 12:47:12,124 - INFO - User input received: 
+2025-01-30 12:47:12,125 - ERROR - Unable to identify service type for input: DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/config.json HTTP/11" 200 0
+DEBUG:filelock:Attempting to acquire lock 5498193632 on /Users/mohammedfaskath/.cache/huggingface/hub/.locks/models--t5-small/378f74060b20f6a9a1ea41b03fc0504466206255.lock
+DEBUG:filelock:Lock 5498193632 acquired on /Users/mohammedfaskath/.cache/huggingface/hub/.locks/models--t5-small/378f74060b20f6a9a1ea41b03fc0504466206255.lock
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "GET /t5-small/resolve/main/config.json HTTP/11" 200 1206
+DEBUG:filelock:Attempting to release lock 5498193632 on /Users/mohammedfaskath/.cache/huggingface/hub/.locks/models--t5-small/378f74060b20f6a9a1ea41b03fc0504466206255.lock
+DEBUG:filelock:Lock 5498193632 released on /Users/mohammedfaskath/.cache/huggingface/hub/.locks/models--t5-small/378f74060b20f6a9a1ea41b03fc0504466206255.lock
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/model.safetensors HTTP/11" 302 0
+DEBUG:filelock:Attempting to acquire lock 5542428256 on /Users/mohammedfaskath/.cache/huggingface/hub/.locks/models--t5-small/bd944e5f1b3ad9b70dd9d00010a517059e19265671076b8b0a4a58d9491842bc.lock
+DEBUG:filelock:Lock 5542428256 acquired on /Users/mohammedfaskath/.cache/huggingface/hub/.locks/models--t5-small/bd944e5f1b3ad9b70dd9d00010a517059e19265671076b8b0a4a58d9491842bc.lock
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cdn-lfs.hf.co:443
+DEBUG:urllib3.connectionpool:https://cdn-lfs.hf.co:443 "GET /t5-small/bd944e5f1b3ad9b70dd9d00010a517059e19265671076b8b0a4a58d9491842bc?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&Expires=1738258063&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczODI1ODA2M319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby90NS1zbWFsbC9iZDk0NGU1ZjFiM2FkOWI3MGRkOWQwMDAxMGE1MTcwNTllMTkyNjU2NzEwNzZiOGIwYTRhNThkOTQ5MTg0MmJjP3Jlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249KiJ9XX0_&Signature=du54IXyYmGldahTI1X4147LP79H4Z0TEWvbGYEicdTRQXlpBQSTIUexl3npIgivs9DpBZ1Ndqhm2lLL4lMtOXwagyqVr0fFl~1XJ5Bz~SABRhG9xB55z2tms96y4BMa7CEgI4D9Zeg7ya~VT3aet2Ks~BSGmcRjOTnAKjGNBMFFf8sY6T8E7ctG~YwYFCBG1M0R2sl9hYKRE1g3p0CtpCTQPvXp6ukm1taaXyf0JM-Dl0piLTRwxh1DduJpH6ehKednYt5RydQZVolROVBqT4EaO416Z0jeueVWcNYtw3GNAqFZbWNTEvL5OU0J4Njvwe1nK0ER4V7e-Z6sWEu531A__&Key-Pair-Id=K3RPWS32NSSJCE HTTP/11" 200 242043056
+DEBUG:filelock:Attempting to release lock 5542428256 on /Users/mohammedfaskath/.cache/huggingface/hub/.locks/models--t5-small/bd944e5f1b3ad9b70dd9d00010a517059e19265671076b8b0a4a58d9491842bc.lock
+DEBUG:filelock:Lock 5542428256 released on /Users/mohammedfaskath/.cache/huggingface/hub/.locks/models--t5-small/bd944e5f1b3ad9b70dd9d00010a517059e19265671076b8b0a4a58d9491842bc.lock
+DEBUG:urllib3.connectionpool:Resetting dropped connection: huggingface.co
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/generation_config.json HTTP/11" 200 0
+DEBUG:filelock:Attempting to acquire lock 5532892240 on /Users/mohammedfaskath/.cache/huggingface/hub/.locks/models--t5-small/d52815623b46b7db1c4b957b5a83a8ad30b0146a.lock
+DEBUG:filelock:Lock 5532892240 acquired on /Users/mohammedfaskath/.cache/huggingface/hub/.locks/models--t5-small/d52815623b46b7db1c4b957b5a83a8ad30b0146a.lock
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "GET /t5-small/resolve/main/generation_config.json HTTP/11" 200 147
+DEBUG:filelock:Attempting to release lock 5532892240 on /Users/mohammedfaskath/.cache/huggingface/hub/.locks/models--t5-small/d52815623b46b7db1c4b957b5a83a8ad30b0146a.lock
+DEBUG:filelock:Lock 5532892240 released on /Users/mohammedfaskath/.cache/huggingface/hub/.locks/models--t5-small/d52815623b46b7db1c4b957b5a83a8ad30b0146a.lock
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/tokenizer_config.json HTTP/11" 200 0
+DEBUG:filelock:Attempting to acquire lock 5542040384 on /Users/mohammedfaskath/.cache/huggingface/hub/.locks/models--t5-small/4fd6c49c32ecf41886dba213d40030f063c72b07.lock
+DEBUG:filelock:Lock 5542040384 acquired on /Users/mohammedfaskath/.cache/huggingface/hub/.locks/models--t5-small/4fd6c49c32ecf41886dba213d40030f063c72b07.lock
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "GET /t5-small/resolve/main/tokenizer_config.json HTTP/11" 200 2324
+DEBUG:filelock:Attempting to release lock 5542040384 on /Users/mohammedfaskath/.cache/huggingface/hub/.locks/models--t5-small/4fd6c49c32ecf41886dba213d40030f063c72b07.lock
+DEBUG:filelock:Lock 5542040384 released on /Users/mohammedfaskath/.cache/huggingface/hub/.locks/models--t5-small/4fd6c49c32ecf41886dba213d40030f063c72b07.lock
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/spiece.model HTTP/11" 200 0
+DEBUG:filelock:Attempting to acquire lock 5544114080 on /Users/mohammedfaskath/.cache/huggingface/hub/.locks/models--t5-small/4e28ff6ebdf584f5372d9de68867399142435d9a.lock
+DEBUG:filelock:Lock 5544114080 acquired on /Users/mohammedfaskath/.cache/huggingface/hub/.locks/models--t5-small/4e28ff6ebdf584f5372d9de68867399142435d9a.lock
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "GET /t5-small/resolve/main/spiece.model HTTP/11" 200 791656
+DEBUG:filelock:Attempting to release lock 5544114080 on /Users/mohammedfaskath/.cache/huggingface/hub/.locks/models--t5-small/4e28ff6ebdf584f5372d9de68867399142435d9a.lock
+DEBUG:filelock:Lock 5544114080 released on /Users/mohammedfaskath/.cache/huggingface/hub/.locks/models--t5-small/4e28ff6ebdf584f5372d9de68867399142435d9a.lock
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/tokenizer.json HTTP/11" 200 0
+DEBUG:filelock:Attempting to acquire lock 5544114416 on /Users/mohammedfaskath/.cache/huggingface/hub/.locks/models--t5-small/41911369be79611d82d152725113e66206bd7b79.lock
+DEBUG:filelock:Lock 5544114416 acquired on /Users/mohammedfaskath/.cache/huggingface/hub/.locks/models--t5-small/41911369be79611d82d152725113e66206bd7b79.lock
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "GET /t5-small/resolve/main/tokenizer.json HTTP/11" 200 1389353
+DEBUG:filelock:Attempting to release lock 5544114416 on /Users/mohammedfaskath/.cache/huggingface/hub/.locks/models--t5-small/41911369be79611d82d152725113e66206bd7b79.lock
+DEBUG:filelock:Lock 5544114416 released on /Users/mohammedfaskath/.cache/huggingface/hub/.locks/models--t5-small/41911369be79611d82d152725113e66206bd7b79.lock
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/added_tokens.json HTTP/11" 404 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/special_tokens_map.json HTTP/11" 404 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/chat_template.jinja HTTP/11" 404 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/config.json HTTP/11" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/generation_config.json HTTP/11" 200 0
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.8.124:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/config.json HTTP/11" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/generation_config.json HTTP/11" 200 0
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-581-291
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/config.json HTTP/11" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/generation_config.json HTTP/11" 200 0
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.8.124:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/config.json HTTP/11" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/generation_config.json HTTP/11" 200 0
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-581-291
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/config.json HTTP/11" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/generation_config.json HTTP/11" 200 0
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.8.124:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/config.json HTTP/11" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/generation_config.json HTTP/11" 200 0
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-581-291
+INFO:werkzeug:127.0.0.1 - - [30/Jan/2025 22:06:50] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Jan/2025 22:06:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:fsevents:NativeEvent(path="/Users/mohammedfaskath/Desktop/project/api/app.py", inode=49761432, flags=11400, id=747550327): is_file, is_inode_meta_mod, is_modified
+DEBUG:fsevents:NativeEvent(path="/Users/mohammedfaskath/Desktop/project/api/app.py~", inode=49798877, flags=1d700, id=747550330): is_coalesced, is_created, is_file, is_inode_meta_mod, is_modified, is_owner_change, is_removed, is_xattr_mod
+DEBUG:fsevents:queue_event FileModifiedEvent(src_path='/Users/mohammedfaskath/Desktop/project/api/app.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+INFO:werkzeug: * Detected change in '/Users/mohammedfaskath/Desktop/project/api/app.py', reloading
+DEBUG:fsevents:queue_event FileCreatedEvent(src_path='/Users/mohammedfaskath/Desktop/project/api/app.py~', dest_path='', event_type='created', is_directory=False, is_synthetic=False)
+DEBUG:fsevents:queue_event DirModifiedEvent(src_path='/Users/mohammedfaskath/Desktop/project/api', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+DEBUG:fsevents:queue_event FileModifiedEvent(src_path='/Users/mohammedfaskath/Desktop/project/api/app.py~', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+DEBUG:fsevents:queue_event FileDeletedEvent(src_path='/Users/mohammedfaskath/Desktop/project/api/app.py~', dest_path='', event_type='deleted', is_directory=False, is_synthetic=False)
+DEBUG:fsevents:queue_event DirModifiedEvent(src_path='/Users/mohammedfaskath/Desktop/project/api', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/config.json HTTP/11" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/generation_config.json HTTP/11" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/config.json HTTP/11" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/generation_config.json HTTP/11" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/config.json HTTP/11" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/generation_config.json HTTP/11" 200 0
+INFO:root:Detected service: technician
+ERROR:root:Error during prompt generation: Invalid format specifier ' "Plumber", "description": "A plumber fixes leaking pipes and water fixtures."' for object of type 'str'
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/config.json HTTP/11" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /t5-small/resolve/main/generation_config.json HTTP/11" 200 0
+INFO:root:Detected service: technician
+ERROR:root:Error during prompt generation: Invalid format specifier ' "Plumber", "description": "A plumber fixes leaking pipes and water fixtures."' for object of type 'str'
